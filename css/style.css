@@ -1,0 +1,30 @@
+#zielony {
+  position: relative;
+  background-color: green;
+  top: 100px;
+  left: 100px
+}
+
+#niebieski {
+    position: absolute;
+  background-color: blue;
+  left: 200px;
+}
+
+#czerwony {
+    position: absolute;
+  background-color: red;
+top: 200px
+
+}
+
+.kwadrat_d {
+  width: 400px;
+  height: 400px;
+}
+
+.kwadrat_m {
+
+  width: 200px;
+  height: 200px;
+}
